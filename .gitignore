@@ -1,3 +1,10 @@
 venv/ 
+__pycache__/ 
+*.pyc 
 *.pkl 
 *.csv 
+.ipynb_checkpoints/ 
+.streamlit/ 
+*.log 
+.DS_Store 
+Thumbs.db 
